@@ -1,0 +1,15 @@
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\bin\Debug\net6.0\codingTest.exe
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\bin\Debug\net6.0\codingTest.deps.json
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\bin\Debug\net6.0\codingTest.runtimeconfig.json
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\bin\Debug\net6.0\codingTest.dll
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\bin\Debug\net6.0\codingTest.pdb
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\codingTest.csproj.AssemblyReference.cache
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\codingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\codingTest.AssemblyInfoInputs.cache
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\codingTest.AssemblyInfo.cs
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\codingTest.csproj.CoreCompileInputs.cache
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\codingTest.dll
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\refint\codingTest.dll
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\codingTest.pdb
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\codingTest.genruntimeconfig.cache
+C:\Users\fiveb\workspace\SDV601_AS1\codingTest\codingTest\obj\Debug\net6.0\ref\codingTest.dll
