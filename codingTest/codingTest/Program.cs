@@ -1,7 +1,8 @@
-﻿string a = "hello";
-string b = "h";
-// Append to contents of 'b'
-b += "ello";
-Console.WriteLine(a == b);
-Console.WriteLine(object.ReferenceEquals(a, b));
-Console.ReadKey(); // press any key to continue
+﻿//Leap year calculator
+
+void calculateLeapYear (int year)
+{
+    Console.WriteLine(year % 400 == 0 ? "EOC Leap year" : year % 4 == 0 ? year + " LEAP YEAR" : year + " STANDARD YEAR");
+};
+
+calculateLeapYear(1990);
