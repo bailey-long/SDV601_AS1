@@ -7,7 +7,7 @@ void calculateGst()
         string input = Console.ReadLine();
         decimal convertUserInputToDecimal;
 
-        if (input == "exit")
+        if (input.ToUpper() == "EXIT")
         {
             //allow user to close the terminal
             return;
@@ -22,7 +22,7 @@ void calculateGst()
         }
         else
         {
-            Console.WriteLine("incorrect format, please enter a price in decimal");
+            Console.WriteLine("incorrect input, please enter a price in decimal.");
         }
     }
 };
