@@ -1,31 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
-void calculateGst()
-{
-    while (true) //allow the app to keep running after a calculation
-    {
-        Console.WriteLine("Enter a price (gst inclusive) to convert or type \"exit\" to close the app");
-        string input = Console.ReadLine();
-        decimal convertUserInputToDecimal;
+﻿//Write an application to display the multiplication table vertically from 1 to 10.
+//Optional ask the user for the maximum value. Ensure that the number align in columns.
 
-        if (input.ToUpper() == "EXIT")
+void displayMultiplcationTable()
+{
+    while (true)
+    {
+        Console.WriteLine("Input the highest number you want to see multiplied up to ten.");
+        int maxValue = Convert.ToInt32(Console.ReadLine());
+
+        for (int i = 1; i <= maxValue; i++)
         {
-            //allow user to close the terminal
-            return;
-        }
-        else if (decimal.TryParse(input, out convertUserInputToDecimal)) //detect if user input can be converted to decimal
-        {
-            decimal price = convertUserInputToDecimal; //
-            
-            Console.WriteLine("price with gst " + price + "$");
-            Console.WriteLine("gst difference " + Math.Round(price * .15m, 2) + "$");
-            Console.WriteLine("Price without gst " + Math.Round(price / 1.15m, 2) + "$" + Environment.NewLine);
-        }
-        else
-        {
-            Console.WriteLine("incorrect input, please enter a price in decimal.");
+            for (int j = 1; j <= maxValue; j++)
+            {
+                Console.WriteLine(j * i);
+            }
         }
     }
-};
+}
 
-calculateGst();
-
+displayMultiplcationTable();
